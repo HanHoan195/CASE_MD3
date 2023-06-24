@@ -1,0 +1,1 @@
+SELECT * FROM casestudy_module3.product;
